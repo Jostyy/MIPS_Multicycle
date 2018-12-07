@@ -1,0 +1,521 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\User\Documents\Livros\OAC\projetofinal\multicycle\simulation\modelsim
+Ealu_ctr
+Z1 w1544179881
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx4 work 8 mips_pkg 0 22 Wk3M]HhbGA[I9aXWMcQWD0
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Users\User\Documents\Livros\OAC\projetofinal\multicycle\simulation\modelsim
+Z7 8C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/alu_ctr.vhd
+Z8 FC:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/alu_ctr.vhd
+l0
+L8
+VfkzA9aGJkEh<EjROInP9;0
+!s100 eClcQG8H38D87W3`heILV0
+Z9 OV;C;10.1d;51
+31
+!i10b 1
+Z10 !s108 1544180522.013000
+Z11 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/alu_ctr.vhd|
+Z12 !s107 C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/alu_ctr.vhd|
+Z13 o-93 -work work -O0
+Z14 tExplicit 1
+Abehav
+R2
+R3
+R4
+R5
+DEx4 work 7 alu_ctr 0 22 fkzA9aGJkEh<EjROInP9;0
+l19
+L17
+VnIZJeX0QK@ml_N5O4::4k0
+!s100 [QE0Rd]_8OSHBj4Z]1GS_2
+R9
+31
+!i10b 1
+R10
+R11
+R12
+R13
+R14
+Ebreg
+Z15 w1390850488
+R2
+R3
+Z16 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z17 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R4
+R5
+R6
+Z18 8C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/breg.vhd
+Z19 FC:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/breg.vhd
+l0
+L10
+V@8`bB?R9g4L5C@Ug6HJ?73
+R9
+31
+Z20 !s108 1544180518.713000
+Z21 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/breg.vhd|
+Z22 !s107 C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/breg.vhd|
+R13
+R14
+!s100 N=AK66V?fY4g4I?5egBI`3
+!i10b 1
+Artl
+R2
+R3
+R16
+R17
+R4
+R5
+DEx4 work 4 breg 0 22 @8`bB?R9g4L5C@Ug6HJ?73
+l32
+L28
+Vm[Yj[aQHEQhbgT]EYoo]?1
+R9
+31
+R20
+R21
+R22
+R13
+R14
+!s100 NWo]LTD1ZnJ4L;2Ij^7[32
+!i10b 1
+Eextsgn
+Z23 w1390916062
+R2
+R3
+R4
+R5
+R6
+Z24 8C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/extsgn.vhd
+Z25 FC:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/extsgn.vhd
+l0
+L6
+V1_30]<W[89M5bF?h[]^<30
+R9
+31
+Z26 !s108 1544180515.413000
+Z27 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/extsgn.vhd|
+Z28 !s107 C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/extsgn.vhd|
+R13
+R14
+!s100 lSdlYLoe<L?<7AnFBaMT=3
+!i10b 1
+Awires
+R2
+R3
+R4
+R5
+DEx4 work 6 extsgn 0 22 1_30]<W[89M5bF?h[]^<30
+l19
+L17
+VM32Z0P75^bg;6H>9D@UIe2
+R9
+31
+R26
+R27
+R28
+R13
+R14
+!s100 ]GZ8`Y=Tn=j7nBNC;c5_j0
+!i10b 1
+Emips_control
+Z29 w1544120427
+R2
+R3
+R4
+R5
+R6
+Z30 8C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_control.vhd
+Z31 FC:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_control.vhd
+l0
+L5
+VHihLV^bGjI?0OfNm_0_>l0
+R9
+31
+Z32 !s108 1544180512.014000
+Z33 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_control.vhd|
+Z34 !s107 C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_control.vhd|
+R13
+R14
+!s100 =B@j`dCd3bMPznX0Dk=mH0
+!i10b 1
+Acontrol_op
+R2
+R3
+R4
+R5
+DEx4 work 12 mips_control 0 22 HihLV^bGjI?0OfNm_0_>l0
+l45
+L28
+VZ>1E>C_UoOSldHmgT`:Q_2
+R9
+31
+R32
+R33
+R34
+R13
+R14
+!s100 `eEOVcE`_k?zeOMV0gjlc3
+!i10b 1
+Emips_mem
+Z35 w1543493670
+Z36 DPx9 altera_mf 20 altera_mf_components 0 22 No]@D`cShSLI4UOb8Ijo62
+R3
+R2
+R4
+R5
+R6
+Z37 8C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_mem.vhd
+Z38 FC:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_mem.vhd
+l0
+L12
+VO@SdERni9?Y^U]HOf7dC:1
+R9
+31
+Z39 !s108 1544180508.612000
+Z40 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_mem.vhd|
+Z41 !s107 C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_mem.vhd|
+R13
+R14
+!s100 07?NJ;z_:YCIC@5R`i1mQ1
+!i10b 1
+Artl
+R36
+R3
+R2
+R4
+R5
+DEx4 work 8 mips_mem 0 22 O@SdERni9?Y^U]HOf7dC:1
+l64
+L24
+VWQE>nnLAJMT>EnaEBn>OK1
+R9
+31
+R39
+R40
+R41
+R13
+R14
+!s100 eUmh48WmQK;12HFl6>`lH0
+!i10b 1
+Emips_multi
+Z42 w1544119757
+R2
+R3
+R4
+R5
+R6
+Z43 8C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_multi.vhd
+Z44 FC:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_multi.vhd
+l0
+L8
+Vc5e]jH`emI3iKd>ZMXh192
+R9
+31
+Z45 !s108 1544180505.313000
+Z46 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_multi.vhd|
+Z47 !s107 C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_multi.vhd|
+R13
+R14
+!s100 nLj0fh6YOPaHGjoUWT1kH1
+!i10b 1
+Artl
+R2
+R3
+R4
+R5
+DEx4 work 10 mips_multi 0 22 c5e]jH`emI3iKd>ZMXh192
+l90
+L19
+V2hj>[>TfICncjL]BAff>c0
+R9
+31
+R45
+R46
+R47
+R13
+R14
+!s100 9?1MFFAj29jM_Wjm3XV1h2
+!i10b 1
+Pmips_pkg
+R2
+R4
+R5
+Z48 w1544179879
+R6
+Z49 8C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_pkg.vhd
+Z50 FC:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_pkg.vhd
+l0
+L6
+VWk3M]HhbGA[I9aXWMcQWD0
+R9
+31
+Z51 !s108 1544180488.610000
+Z52 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_pkg.vhd|
+Z53 !s107 C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mips_pkg.vhd|
+R13
+R14
+!s100 GP?50^;QjZde=7`<TJ>XK0
+!i10b 1
+Bbody
+R3
+R2
+R4
+R5
+l0
+L281
+VjHjkP2zVYhJ7i:?`Bf?Q80
+R9
+31
+R51
+R52
+R53
+R13
+R14
+nbody
+!s100 C8oF?3mJm@a;FOVU1EU0T1
+!i10b 1
+Emux_2
+Z54 w1390850328
+R2
+R3
+R16
+Z55 DPx4 ieee 16 std_logic_signed 0 22 E>OLoMaBGQ?hbGgOoNXM^1
+R4
+R5
+R6
+Z56 8C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mux_2.vhd
+Z57 FC:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mux_2.vhd
+l0
+L6
+Vg0Io]c`bdUN4[=;LL9M6=2
+R9
+31
+Z58 !s108 1544180501.913000
+Z59 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mux_2.vhd|
+Z60 !s107 C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mux_2.vhd|
+R13
+R14
+!s100 9ce3kMhhE>?Ya2@7W_38>2
+!i10b 1
+Artl
+R2
+R3
+R16
+R55
+R4
+R5
+DEx4 work 5 mux_2 0 22 g0Io]c`bdUN4[=;LL9M6=2
+l16
+L15
+VeShBG@FzQc0:GjFD]2Z001
+R9
+31
+R58
+R59
+R60
+R13
+R14
+!s100 E?5jS]Sd5gQzi1UJMfSXE2
+!i10b 1
+Emux_3
+Z61 w1390927592
+R2
+R3
+R16
+R55
+R4
+R5
+R6
+Z62 8C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mux_3.vhd
+Z63 FC:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mux_3.vhd
+l0
+L6
+VNA_IWTgOn=MT0>d7<2TSR0
+R9
+31
+Z64 !s108 1544180498.612000
+Z65 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mux_3.vhd|
+Z66 !s107 C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mux_3.vhd|
+R13
+R14
+!s100 ^VM<[HMnZeP=0iQkE`<XE3
+!i10b 1
+Artl
+R2
+R3
+R16
+R55
+R4
+R5
+DEx4 work 5 mux_3 0 22 NA_IWTgOn=MT0>d7<2TSR0
+l17
+L16
+VmO7Tg1be?oD<h`[VW=VbB2
+R9
+31
+R64
+R65
+R66
+R13
+R14
+!s100 dH=bL6`[B9UP2l47LRzR?2
+!i10b 1
+Emux_4
+Z67 w1390927606
+R2
+R3
+R16
+R55
+R4
+R5
+R6
+Z68 8C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mux_4.vhd
+Z69 FC:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mux_4.vhd
+l0
+L6
+VU^TFaTngo2GPVVYQJhzT12
+R9
+31
+Z70 !s108 1544180495.312000
+Z71 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mux_4.vhd|
+Z72 !s107 C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/mux_4.vhd|
+R13
+R14
+!s100 2KjE@fFJfU;hkjFm4_@^02
+!i10b 1
+Artl
+R2
+R3
+R16
+R55
+R4
+R5
+DEx4 work 5 mux_4 0 22 U^TFaTngo2GPVVYQJhzT12
+l17
+L16
+VS002UVOF6>F=DLE=l;@Y72
+R9
+31
+R70
+R71
+R72
+R13
+R14
+!s100 8SPiA@VYl8lQOMS1W[Oka1
+!i10b 1
+Ereg
+Z73 w1364599672
+R4
+R5
+R6
+Z74 8C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/reg.vhd
+Z75 FC:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/reg.vhd
+l0
+L7
+V=M[ABcRJOEGR;Bk2YdQ=C3
+R9
+31
+Z76 !s108 1544180485.311000
+Z77 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/reg.vhd|
+Z78 !s107 C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/reg.vhd|
+R13
+R14
+!s100 VzGUjc>85]Tl_V^;DRB]42
+!i10b 1
+Artl
+R4
+R5
+DEx4 work 3 reg 0 22 =M[ABcRJOEGR;Bk2YdQ=C3
+l25
+L21
+VGI8ZZ_bzE>hF;BINzY?G>1
+R9
+31
+R76
+R77
+R78
+R13
+R14
+!s100 m3b>>X::ZgKUNcA2PKKXY1
+!i10b 1
+Eregbuf
+Z79 w1375054638
+R4
+R5
+R6
+Z80 8C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/regbuf.vhd
+Z81 FC:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/regbuf.vhd
+l0
+L7
+V<YlF2G;hj=P5B33heZJQR3
+R9
+31
+Z82 !s108 1544180482.034000
+Z83 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/regbuf.vhd|
+Z84 !s107 C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/regbuf.vhd|
+R13
+R14
+!s100 4C6SegQn=jTK3[3EB`?oA1
+!i10b 1
+Artl
+R4
+R5
+DEx4 work 6 regbuf 0 22 <YlF2G;hj=P5B33heZJQR3
+l20
+L19
+V><K:O9C;i7<RGfcUOdDdW1
+R9
+31
+R82
+R83
+R84
+R13
+R14
+!s100 dU0zZFiXlE=gIaOd@PWTE1
+!i10b 1
+Eulamips
+Z85 w1544179959
+R3
+R2
+R4
+R5
+R6
+Z86 8C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/ulamips.vhd
+Z87 FC:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/ulamips.vhd
+l0
+L6
+VzoaDkdk7>JLIQh>98S8oV1
+R9
+31
+Z88 !s108 1544180491.913000
+Z89 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/ulamips.vhd|
+Z90 !s107 C:/Users/User/Documents/Livros/OAC/projetofinal/mips_multi/ulamips.vhd|
+R13
+R14
+!s100 Mg@[lNXnTbYd=b>5XT0[[1
+!i10b 1
+Abehavioral
+R3
+R2
+R4
+R5
+DEx4 work 7 ulamips 0 22 zoaDkdk7>JLIQh>98S8oV1
+l24
+L19
+V2Nojj4<BOTm<XA<gKI^]Q0
+R9
+31
+R88
+R89
+R90
+R13
+R14
+!s100 5iLkPz<][NVYgo=]YQezc0
+!i10b 1
